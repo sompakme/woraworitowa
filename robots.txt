@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://woraworitowa.pages.dev/sitemap.xml
